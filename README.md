@@ -47,10 +47,17 @@ Navigate to the modpack’s tab on curseforge, select the versions tab, and clic
 <br /><br />
 You may need to increase the amount of RAM allocated to Minecraft. To do this on the CurseForge app, open the CurseForge settings, navigate to the "Minecraft" section, and within "Java Settings" find the "Allocated Memory" slider. Drag the slider to a higher amount of RAM allocation — we recommend setting it to 6,000 if possible.
 <br /><br />
-<strong>Is Forge, Bedrock, or cracked Minecraft clients / TLauncher supported?</strong>
+<strong>Is Forge, Bedrock, or "cracked" Minecraft clients / TLauncher supported?</strong>
 <br /><br />
 No, our server runs on Fabric 1.20.1 on Java Edition. You must have a paid Java Edition account to play on our server.
 </details>
+
+
+## Credits
+
+Modpack created and maintained by the [Create-O-Holics team](<https://createoholics.com/roster>).
+
+*None of the mods in this pack belong to the members of the Create-O-Holics team and are property of their respective owners. Without these amazing developers, this pack would not be possible — so thank you to all of the developers for their amazing work!*
 
 <!-- Files -->
 
