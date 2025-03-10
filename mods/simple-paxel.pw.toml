@@ -1,0 +1,13 @@
+name = "Simple Paxel"
+filename = "simple-paxels-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22c48e1e03787b5ba4f1ce308c509004d79f5cf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4631752
+project-id = 886002
