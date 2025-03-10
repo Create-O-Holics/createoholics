@@ -1,0 +1,13 @@
+name = "Create Big Cannons"
+filename = "createbigcannons-5.8.2-mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba8dbabbc013f37844e05add7b7256641c4ee62f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6064373
+project-id = 646668

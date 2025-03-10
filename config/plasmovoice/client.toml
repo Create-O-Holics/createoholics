@@ -1,0 +1,93 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+[activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
+toggle = true
+type = "VOICE"
+[[key_bindings]]
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"
+
+[[key_bindings.keys]]
+code = 44
+type = "KEYSYM"
+
+[[key_bindings]]
+name = "key.plasmovoice.proximity.toggle"
+any_context = false
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 44
+type = "KEYSYM"
+
+[servers.8d89daef-3a42-4484-ba7e-5500a31dd8a5.distances]
+4aec07ba-d109-3345-9a0a-92022a116cd0 = 32
+
+
+[voice]
+disabled = false
+microphone_disabled = true
+activation_threshold = -30.0
+input_device = ""
+output_device = ""
+disable_input_device = false
+use_javax_input = false
+microphone_volume = 1.0
+noise_suppression = true
+volume = 1.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_14aad608-1394-412f-aff6-92a40c764372]
+volume = 2.0
+[voice.volumes.source_ef893d20-83a7-47cf-add9-26c4f01aef37]
+volume = 1.2
+[voice.volumes.source_dcdf5788-59d0-4ee9-8c3e-8e6b6b7973c0]
+volume = 0.6
+[voice.volumes.source_0fa56a39-84df-494e-a0e8-93813f388122]
+volume = 0.6
+[voice.volumes.source_cc46bf19-e606-4b13-b940-5d46cccfd15d]
+volume = 2.0
+[voice.volumes.proximity]
+volume = 2.0
+[voice.volumes.source_c36cee19-c37d-47e0-889a-8915dfc056ae]
+volume = 0.7
+[voice.volumes.source_2a6a5fd0-d6ea-4598-977f-6066d977c08c]
+volume = 2.0
+[voice.volumes.source_d793edc9-e6d4-428e-b97a-093e39734e22]
+volume = 0.6
+[voice.volumes.source_cf2aa97b-a99b-4727-bbc3-2c8fb47eb489]
+volume = 2.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+mute_player_on_direct = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+jitter_packet_delay = 3
+al_playback_buffers = 5
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"

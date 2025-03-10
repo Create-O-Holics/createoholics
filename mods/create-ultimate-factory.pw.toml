@@ -1,0 +1,13 @@
+name = "Create: Ultimate Factory [Forge/Fabric/NeoForge]"
+filename = "create_ultimate_factory-1.8.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3c87690c8d86e2e0a35f954c8529abf0789d8db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5848138
+project-id = 978125

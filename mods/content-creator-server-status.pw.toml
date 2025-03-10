@@ -1,0 +1,13 @@
+name = "Content Creator Server Status"
+filename = "status-fabric-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b89ea08ad34908e61ebcf141518afe67076683fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5226665
+project-id = 687609

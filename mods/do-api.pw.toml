@@ -1,0 +1,13 @@
+name = "[Let's Do] API "
+filename = "letsdo-API-fabric-1.2.15-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75fe2c9ee62ed131620c0dfb4be8a9cad616eec0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5468180
+project-id = 864599

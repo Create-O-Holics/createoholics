@@ -1,0 +1,13 @@
+name = "Explorify – Dungeons & Structures"
+filename = "Explorify v1.6.2 f10-48.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f04907ed21f6239f90031cfe1d79b43e3ef76cb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5722938
+project-id = 698309
