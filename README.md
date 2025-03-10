@@ -88,7 +88,7 @@ Modpack created and maintained by the [Create-O-Holics team](<https://createohol
 [url-app-multimc]: https://multimc.org
 [url-app-prism]: https://prismlauncher.org
 [url-app-vanilla]: https://minecraft.net/en-us/download
-[url-cf]: https://download.fo/curseforge
+[url-cf]: https://www.curseforge.com/minecraft/modpacks/create-o-holics-public-server-pack
 [url-credits-comp500]: https://github.com/comp500
 [url-credits-comp500-Jumploader]: https://curseforge.com/minecraft/mc-mods/jumploader
 [url-credits-comp500-Indium]: https://modrinth.com/mod/indium
